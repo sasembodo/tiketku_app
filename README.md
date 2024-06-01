@@ -1,1 +1,0 @@
-# tiketku_app
