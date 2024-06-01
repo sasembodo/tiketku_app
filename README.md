@@ -10,4 +10,4 @@ v18.20.0
 
 ## Run the project
 
-    yarn install
+    yarn start
